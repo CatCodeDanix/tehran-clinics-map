@@ -1,0 +1,28 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("/src/assets/fonts/Vazirmatn.woff2") format("woff2"),
+    url("/src/assets/fonts/Vazirmatn.ttf") format("truetype");
+  font-weight: 1 900;
+  font-style: normal;
+}
+
+:root {
+  font-family: "Vazirmatn", sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "ss01";
+}
+
+::-ms-reveal {
+  display: none;
+}
