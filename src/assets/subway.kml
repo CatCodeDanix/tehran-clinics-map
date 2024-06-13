@@ -7,7 +7,7 @@
         <color>ff000000</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>./subway_logo.svg</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -16,7 +16,7 @@
         <color>ff000000</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>./subway_logo.svg</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -28,7 +28,7 @@
         <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>./subway_logo.svg</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -40,7 +40,7 @@
         <color>ff589d0f</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>./subway_logo.svg</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -52,7 +52,7 @@
         <color>ff7e231a</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>./subway_logo.svg</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -61,7 +61,7 @@
         <color>ff0051e6</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>./subway_logo.svg</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -70,7 +70,7 @@
         <color>ff0051e6</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>./subway_logo.svg</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -82,7 +82,7 @@
         <color>ff2dc0fb</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>./subway_logo.svg</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -359,7 +359,7 @@
     </Placemark>
     <Placemark>
       <name>تجریش‎‎</name>
-      <description><![CDATA[میدان قدس<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%aa%d8%ac%d8%b1%db%8c%d8%b4/‎<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -369,7 +369,7 @@
     </Placemark>
     <Placemark>
       <name>قیطریه‎</name>
-      <description><![CDATA[خیابان شریعتی، نرسیده به بلوار صبا<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d9%82%db%8c%d8%b7%d8%b1%db%8c%d9%87/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -379,7 +379,7 @@
     </Placemark>
     <Placemark>
       <name>صدر‎</name>
-      <description><![CDATA[خیابان شریعتی، بالاتر از پل صدر<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b5%d8%af%d8%b1/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -389,7 +389,7 @@
     </Placemark>
     <Placemark>
       <name>قلهک‎</name>
-      <description><![CDATA[خیابان شریعتی، بین خیابان یخچال و خیابان کلاهدوز<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d9%82%d9%84%d9%87%da%a9/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -399,7 +399,7 @@
     </Placemark>
     <Placemark>
       <name>شریعتی‎</name>
-      <description><![CDATA[خیابان شریعتی، بالاتر از میرداماد<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b4%d8%b1%db%8c%d8%b9%d8%aa%db%8c/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -409,7 +409,7 @@
     </Placemark>
     <Placemark>
       <name>میرداماد‎‎</name>
-      <description><![CDATA[بلوار میرداماد، بین تبریزیان و کازرون<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d9%85%db%8c%d8%b1%d8%af%d8%a7%d9%85%d8%a7%d8%af/<br>‎‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -419,7 +419,7 @@
     </Placemark>
     <Placemark>
       <name>حقانی‎</name>
-      <description><![CDATA[بزرگراه حقانی، بعد از بزرگراه مدرس<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%ad%d9%82%d8%a7%d9%86%db%8c/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -429,7 +429,7 @@
     </Placemark>
     <Placemark>
       <name>همت‎</name>
-      <description><![CDATA[بزرگراه همت<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b4%d9%87%db%8c%d8%af-%d9%87%d9%85%d8%aa/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -439,7 +439,7 @@
     </Placemark>
     <Placemark>
       <name>مصلی‎</name>
-      <description><![CDATA[بزرگراه رسالت، شرق بزرگراه مدرس<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d9%85%d8%b5%d9%84%db%8c/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -449,7 +449,7 @@
     </Placemark>
     <Placemark>
       <name>بهشتی‎‎</name>
-      <description><![CDATA[خیابان بهشتی، روبروی خیابان مفتح<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b4%d9%87%db%8c%d8%af-%d8%a8%d9%87%d8%b4%d8%aa%db%8c/<br>‎‎]]></description>
+      
       <styleUrl>#icon-1626-000000-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -459,7 +459,7 @@
     </Placemark>
     <Placemark>
       <name>مفتح‎</name>
-      <description><![CDATA[خیابان مفتح شمالی، تقاطع خیابان مطهری<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d9%85%d9%81%d8%aa%d8%ad/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -469,7 +469,7 @@
     </Placemark>
     <Placemark>
       <name>هفت تیر‎</name>
-      <description><![CDATA[میدان هفت تیر<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d9%87%d9%81%d8%aa-%d8%aa%db%8c%d8%b1/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-000000-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -479,7 +479,7 @@
     </Placemark>
     <Placemark>
       <name>طالقانی‎</name>
-      <description><![CDATA[خیابان طالقانی، تقاطع خیابان مفتح جنوبی<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b7%d8%a7%d9%84%d9%82%d8%a7%d9%86%db%8c/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -489,7 +489,7 @@
     </Placemark>
     <Placemark>
       <name>دروازه دولت‎</name>
-      <description><![CDATA[خیابان انقلاب، دروازه دولت<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%af%d8%b1%d9%88%d8%a7%d8%b2%d9%87-%d8%af%d9%88%d9%84%d8%aa/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-000000-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -499,7 +499,7 @@
     </Placemark>
     <Placemark>
       <name>سعدی‎</name>
-      <description><![CDATA[تقاطع خیابان جمهوری و خیابان سعدی<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b3%d8%b9%d8%af%db%8c/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -509,7 +509,7 @@
     </Placemark>
     <Placemark>
       <name>امام خمینی‎</name>
-      <description><![CDATA[میدان امام خمینی<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%a7%d9%85%d8%a7%d9%85-%d8%ae%d9%85%db%8c%d9%86%db%8c/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-000000-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -519,7 +519,7 @@
     </Placemark>
     <Placemark>
       <name>پانزده خرداد‎</name>
-      <description><![CDATA[خیابان خیام، ابتدای خیابان پانزده خرداد<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d9%be%d8%a7%d9%86%d8%b2%d8%af%d9%87-%d8%ae%d8%b1%d8%af%d8%a7%d8%af/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -529,7 +529,7 @@
     </Placemark>
     <Placemark>
       <name>خیام‎</name>
-      <description><![CDATA[خیابان خیام<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%ae%db%8c%d8%a7%d9%85/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -539,7 +539,7 @@
     </Placemark>
     <Placemark>
       <name>میدان محمدیه‎</name>
-      <description><![CDATA[میدان محمدیه<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d9%85%db%8c%d8%af%d8%a7%d9%86-%d9%85%d8%ad%d9%85%d8%af%db%8c%d9%87/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-000000-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -549,7 +549,7 @@
     </Placemark>
     <Placemark>
       <name>شوش‎</name>
-      <description><![CDATA[خیابان شوش، روبروی خیابان خیام<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b4%d9%88%d8%b4/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -559,7 +559,7 @@
     </Placemark>
     <Placemark>
       <name>پایانه جنوب‎</name>
-      <description><![CDATA[پایانه جنوب تهران<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%aa%d8%b1%d9%85%db%8c%d9%86%d8%a7%d9%84-%d8%ac%d9%86%d9%88%d8%a8/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -569,7 +569,7 @@
     </Placemark>
     <Placemark>
       <name>شهید بخارایی‎</name>
-      <description><![CDATA[فلکه دوم خزانه، خیابان امیری، خیابان همدانی<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%ae%d8%b2%d8%a7%d9%86%d9%87-%d8%b4%d9%87%db%8c%d8%af-%d8%a8%d8%ae%d8%a7%d8%b1%d8%a7%db%8c%db%8c/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -579,7 +579,7 @@
     </Placemark>
     <Placemark>
       <name>علی آباد‎</name>
-      <description><![CDATA[بلوار دستواره<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b9%d9%84%db%8c-%d8%a2%d8%a8%d8%a7%d8%af/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -589,7 +589,7 @@
     </Placemark>
     <Placemark>
       <name>جوانمرد قصاب‎</name>
-      <description><![CDATA[بلوار دستواره<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%ac%d9%88%d8%a7%d9%86%d9%85%d8%b1%d8%af-%d9%82%d8%b5%d8%a7%d8%a8/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -599,7 +599,7 @@
     </Placemark>
     <Placemark>
       <name>شهر ری‎</name>
-      <description><![CDATA[شهر ری، خیابان فرمانداری<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b4%d9%87%d8%b1-%d8%b1%db%8c/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-E65100-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -704,7 +704,7 @@
     </Placemark>
     <Placemark>
       <name>فرهنگسرا‎</name>
-      <description><![CDATA[تهرانپارس، خیابان جشنواره<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d9%81%d8%b1%d9%87%d9%86%da%af%d8%b3%d8%b1%d8%a7/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -714,7 +714,7 @@
     </Placemark>
     <Placemark>
       <name>تهرانپارس‎</name>
-      <description><![CDATA[بزرگراه رسالت شرقی<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%aa%d9%87%d8%b1%d8%a7%d9%86%d9%be%d8%a7%d8%b1%d8%b3/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -724,7 +724,7 @@
     </Placemark>
     <Placemark>
       <name>شهید باقری</name>
-      <description><![CDATA[بزرگراه باقری، ابتدای بزرگراه رسالت غربی<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b4%d9%87%db%8c%d8%af-%d8%a8%d8%a7%d9%82%d8%b1%db%8c/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -734,7 +734,7 @@
     </Placemark>
     <Placemark>
       <name>دانشگاه علم و صنعت</name>
-      <description><![CDATA[بزرگراه رسالت<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%af%d8%a7%d9%86%d8%b4%da%af%d8%a7%d9%87-%d8%b9%d9%84%d9%85-%d9%88-%d8%b5%d9%86%d8%b9%d8%aa/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -744,7 +744,7 @@
     </Placemark>
     <Placemark>
       <name>سرسبز</name>
-      <description><![CDATA[بزرگراه رسالت، ابتدای آیت<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b3%d8%b1%d8%b3%d8%a8%d8%b2/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -754,7 +754,7 @@
     </Placemark>
     <Placemark>
       <name>جانبازان</name>
-      <description><![CDATA[خیابان شهید مدنی، نرسیده به میدان رسالت<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%ac%d8%a7%d9%86%d8%a8%d8%a7%d8%b2%d8%a7%d9%86/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -764,7 +764,7 @@
     </Placemark>
     <Placemark>
       <name>فدک</name>
-      <description><![CDATA[خیابان شهید مدنی<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d9%81%d8%af%da%a9/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -774,7 +774,7 @@
     </Placemark>
     <Placemark>
       <name>سبلان</name>
-      <description><![CDATA[تقاطع خیابان سبلان و خیابان شهید مدنی<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b3%d8%a8%d9%84%d8%a7%d9%86/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -784,7 +784,7 @@
     </Placemark>
     <Placemark>
       <name>شهید مدنی</name>
-      <description><![CDATA[خیابان شهید مدنی، پایین‌تر از بزرگراه امام علی<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b4%d9%87%db%8c%d8%af-%d9%85%d8%af%d9%86%db%8c/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -794,7 +794,7 @@
     </Placemark>
     <Placemark>
       <name>امام حسین</name>
-      <description><![CDATA[خیابان انقلاب، میدان امام حسین<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%a7%d9%85%d8%a7%d9%85-%d8%ad%d8%b3%db%8c%d9%86/]]></description>
+      
       <styleUrl>#icon-1626-000000-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -804,7 +804,7 @@
     </Placemark>
     <Placemark>
       <name>دروازه شمیران‎</name>
-      <description><![CDATA[خیابان این سینا<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%af%d8%b1%d9%88%d8%a7%d8%b2%d9%87-%d8%b4%d9%85%db%8c%d8%b1%d8%a7%d9%86/<br>‎]]></description>
+      
       <styleUrl>#icon-1626-000000-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -814,7 +814,7 @@
     </Placemark>
     <Placemark>
       <name>بهارستان</name>
-      <description><![CDATA[میدان بهارستان، خیابان ابن سینا<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%a8%d9%87%d8%a7%d8%b1%d8%b3%d8%aa%d8%a7%d9%86/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -824,7 +824,7 @@
     </Placemark>
     <Placemark>
       <name>ملت</name>
-      <description><![CDATA[خیابان ملت، تقاطع اکباتان<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d9%85%d9%84%d8%aa/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -843,7 +843,7 @@
     </Placemark>
     <Placemark>
       <name>حسن آباد</name>
-      <description><![CDATA[خیابان امام خمینی، میدان حسن آباد<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%ad%d8%b3%d9%86-%d8%a2%d8%a8%d8%a7%d8%af/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -853,7 +853,7 @@
     </Placemark>
     <Placemark>
       <name>دانشگاه امام علی</name>
-      <description><![CDATA[خیابان امام خمینی، بعد از خیابان ولیعصر<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%af%d8%a7%d9%86%d8%b4%da%af%d8%a7%d9%87-%d8%a7%d9%85%d8%a7%d9%85-%d8%b9%d9%84%db%8c/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -863,7 +863,7 @@
     </Placemark>
     <Placemark>
       <name>میدان حر</name>
-      <description><![CDATA[ابتدای خیابان پاستور<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d9%85%db%8c%d8%af%d8%a7%d9%86-%d8%ad%d8%b1/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -873,7 +873,7 @@
     </Placemark>
     <Placemark>
       <name>شهید نواب صفوی‎</name>
-      <description><![CDATA[بزرگراه نواب<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d9%86%d9%88%d8%a7%d8%a8-%d8%b5%d9%81%d9%88%db%8c/‎]]></description>
+      
       <styleUrl>#icon-1626-000000-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -883,7 +883,7 @@
     </Placemark>
     <Placemark>
       <name>شادمان</name>
-      <description><![CDATA[خیابان آزادی، تقاطع شادمهر<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b4%d8%a7%d8%af%d9%85%d8%a7%d9%86/]]></description>
+      
       <styleUrl>#icon-1626-000000-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -893,7 +893,7 @@
     </Placemark>
     <Placemark>
       <name>دانشگاه شریف</name>
-      <description><![CDATA[خیابان تیموری<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%af%d8%a7%d9%86%d8%b4%da%af%d8%a7%d9%87-%d8%b4%d8%b1%db%8c%d9%81/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -903,7 +903,7 @@
     </Placemark>
     <Placemark>
       <name>طرشت</name>
-      <description><![CDATA[خیابان گلاب، خیابان چوب تراش<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b7%d8%b1%d8%b4%d8%aa/]]></description>
+      
       <styleUrl>#icon-1626-1A237E-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -913,7 +913,7 @@
     </Placemark>
     <Placemark>
       <name>صادقیه</name>
-      <description><![CDATA[سازمان آب<br>https://tehdooni.com/places/tehran/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-1/%d8%a7%db%8c%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%d8%aa%d8%b1%d9%88-%d8%b5%d8%a7%d8%af%d9%82%db%8c%d9%87/]]></description>
+      
       <styleUrl>#icon-1626-000000-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -1649,7 +1649,7 @@
     </Placemark>
     <Placemark>
       <name>خط 6 مترو تهران</name>
-      <description>https://tehdooni.com</description>
+      
       <styleUrl>#line-F48FB1-5456</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -1816,7 +1816,7 @@
     </Placemark>
     <Placemark>
       <name>خط 7 مترو تهران</name>
-      <description>https://tehdooni.com</description>
+      
       <styleUrl>#line-9C27B0-5456</styleUrl>
       <LineString>
         <tessellate>1</tessellate>

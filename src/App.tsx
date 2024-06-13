@@ -32,6 +32,8 @@ const App = () => {
                   "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-icon.png",
                 shadowUrl:
                   "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png",
+                popupAnchor: [13, -5],
+                className: "clinic-marker-popup",
               })}
             >
               <Popup>
@@ -40,7 +42,7 @@ const App = () => {
                   <br />
                   {marker.address}
                   <br />
-                  {marker.tell}
+                  {/* {marker.tell} */}
                 </div>
               </Popup>
             </Marker>

@@ -1,3 +1,10 @@
+@import url("./assets/styles/leaflet.css");
+
+.leaflet-popup:not(.kml-popup) {
+  background-color: red;
+  text-align: center;
+}
+
 html,
 body,
 #root {
@@ -20,7 +27,19 @@ body,
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::after,
+*::before {
+  direction: rtl;
+  font-family: "Vazirmatn", sans-serif;
   font-feature-settings: "ss01";
+}
+
+.leaflet-popup-content {
+  line-height: 1.7;
+  text-align: center;
 }
 
 ::-ms-reveal {
